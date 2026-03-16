@@ -64,4 +64,5 @@ Total records count is displayed at the bottom.
 
 💾 Local Storage API
 
+<img width="1857" height="659" alt="Screenshot 2026-03-17 031842" src="https://github.com/user-attachments/assets/25b215be-85b6-4ca2-9aeb-507244f870ab" />
 
